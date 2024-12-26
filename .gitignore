@@ -1,0 +1,28 @@
+# Terraform files
+*.tfstate
+*.tfstate.*
+*.tfvars
+*.tfvars.json
+
+# Crash log files
+crash.log
+
+# .terraform directories
+.terraform/
+
+# Terraform override files
+override.tf
+override.tf.json
+*_override.tf
+*_override.tf.json
+
+# CLI configuration files
+.terraform.rc
+terraform.rc
+
+# Local .gitignore for Terraform-related directories
+.terraform.lock.hcl
+
+# Add these to ignore sensitive files if needed
+# .env
+# .envrc
