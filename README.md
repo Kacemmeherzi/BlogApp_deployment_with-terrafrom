@@ -15,6 +15,7 @@ Ensure you have the following tools installed:
 Blogapp repository : https://github.com/Kacemmeherzi/blogproject 
 Docker image : docker pull mkacem/django-app
 
+- Docker (if building images locally ,otherwise an image already provided in my dockerhub )
 
 ## Getting Started
 
