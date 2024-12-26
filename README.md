@@ -9,12 +9,7 @@ Ensure you have the following tools installed:
 - [Terraform](https://www.terraform.io/downloads.html) (v1.0.0 or later)
 - [Minikube](https://minikube.sigs.k8s.io/docs/) (v1.18.0 or later)
 - [kubectl](https://kubernetes.io/docs/tasks/tools/install-kubectl/) (v1.21.0 or later)
-- [Docker](https://www.docker.com/) (if building images locally ,otherwise an image already provided in my dockerhub )
-
-## Ressources
-Blogapp repository : https://github.com/Kacemmeherzi/blogproject 
-Docker image : docker pull mkacem/django-app
-
+- Docker (if building images locally ,otherwise an image already provided in my dockerhub )
 
 ## Getting Started
 
